@@ -11,4 +11,4 @@ This work is licensed under a
 
 # Awesome Resources
 
-A list of awesome resources on all sorts of interesting development topics.
+A list of awesome resources on all sorts of interesting topics.
